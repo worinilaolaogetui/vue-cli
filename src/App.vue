@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <button type="button" class="mui-btn mui-btn-warning">黄色</button>
     <router-view/>
   </div>
 </template>
